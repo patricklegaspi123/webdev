@@ -1,0 +1,47 @@
+.profile_ {
+  float: left;
+  width: 200px;
+  border-radius: 100px;
+  margin-left: 50px;
+  margin-top: -100px;
+}
+.Eprofile_ {
+  opacity: 5;
+  float: left;
+  height: 35px;
+  width: 35px;
+  margin-top: 55px;
+  margin-left: -50px;
+  cursor: pointer;
+}
+.Eprofile_:hover {
+  border-radius: 17.67px;
+  opacity: 0.5;
+  background-color: #000000;
+}
+
+.cover_ {
+  float: left;
+  height: 240px;
+  width: 1400px;
+  margin-top: 0px;
+  margin-left: 0px;
+  opacity: 1;
+}
+.name {
+  float: left;
+  color: #ffffff;
+  margin-top: -60px;
+  margin-left: 20px;
+}
+.gmail {
+  float: left;
+  margin-left: 20px;
+}
+body {
+  margin: 0%;
+}
+.docu {
+  float: left;
+  margin: 0px;
+}
